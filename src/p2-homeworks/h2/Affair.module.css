@@ -1,0 +1,12 @@
+.affCont {
+    display: flex;
+    flex-direction: row;
+}
+
+.affN {
+    width: 200px;
+}
+
+.affPr {
+    width: 200px;
+}

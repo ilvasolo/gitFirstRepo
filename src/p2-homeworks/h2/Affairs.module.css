@@ -1,3 +1,4 @@
-.someClass {
-
+.affairContent {
+    display: flex;
+    flex-direction: column;
 }
