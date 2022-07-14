@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hwITINC/static/css/main.9ecdafdf.css",
+    "main.js": "/hwITINC/static/js/main.52cfc60b.js",
+    "index.html": "/hwITINC/index.html",
+    "main.9ecdafdf.css.map": "/hwITINC/static/css/main.9ecdafdf.css.map",
+    "main.52cfc60b.js.map": "/hwITINC/static/js/main.52cfc60b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ecdafdf.css",
+    "static/js/main.52cfc60b.js"
+  ]
+}
