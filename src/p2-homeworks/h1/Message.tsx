@@ -7,8 +7,7 @@ type MessagePropsType = {
     message: string
     time: string
 }
-
-export const Message: React.FC<MessagePropsType> = ({
+const Message: React.FC<MessagePropsType> = ({
                                                         avatar,
                                                         name,
                                                         message,
@@ -27,4 +26,4 @@ export const Message: React.FC<MessagePropsType> = ({
     )
 }
 
-
+export default Message
